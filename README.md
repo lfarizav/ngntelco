@@ -436,7 +436,7 @@ The `docker_open5gs/` directory contains work by [herlesupreeth](https://github.
 
 ## 👤 Author
 
-**Luis Felipe Ariza Vesga** — [Golden Kubestronaut](https://www.credly.com/badges/kubestronaut) · PhD in Telecommunications
+**Luis Felipe Ariza Vesga** — [Kubestronaut](https://www.credly.com/users/lfarizav) · PhD in Telecommunications
 
 > *I spent years reading 3GPP specifications and building private cellular networks. This repo packages that knowledge so you can deploy one in 5 minutes.*
 
