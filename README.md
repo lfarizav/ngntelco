@@ -28,7 +28,7 @@
 
 ## What is this?
 
-This repository is a **curated, production-tested collection of deployment recipes** for building private 4G and 5G cellular networks using open-source software. Built by a [Golden Kubestronaut](https://www.credly.com/badges/kubestronaut) with a PhD in telecommunications who spent years reading 3GPP specifications — so you don't have to.
+This repository is a **curated, production-tested collection of deployment recipes** for building private 4G and 5G cellular networks using open-source software. Built by a [Kubestronaut](https://www.credly.com/users/lfarizav) with a PhD in telecommunications who spent years reading 3GPP specifications — so you don't have to.
 
 It wraps [herlesupreeth/docker_open5gs](https://github.com/herlesupreeth/docker_open5gs) with:
 
